@@ -1,11 +1,17 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Unveiling the Significance of Hackers (1995) in Modern Technology Landscapes"
+author: "by AcidBurn"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
+# Introduction
+# Historical Context
+# Cultural Analysis of "Hackers"
+# Technological Themes
+# Impact on Pop Culture
+# Lessons for the Modern Day
+# Conclusion
 
 Hello, world!!!
